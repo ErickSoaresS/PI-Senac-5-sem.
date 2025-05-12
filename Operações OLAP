@@ -1,0 +1,5 @@
+Evidências das Operações OLAP (fatiando por região e média de renda)
+
+SELECT regiao, AVG(renda_media) AS renda_media_regiao
+FROM dados_ibge
+GROUP BY regiao;

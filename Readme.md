@@ -50,3 +50,10 @@ Arquivo: scripts/carga.py
 - Usa pyodbc para conectar ao SQL Server
 - Executa comandos de inserção
 - Estrutura de banco definida em sql/ddl_criacao_tabelas.sql
+
+
+# Autores 
+
+Caique Henrique Leite 
+Caio Cesar Leão Coelho
+Erick Soares da Silva
