@@ -1,0 +1,14 @@
+## Scripts SQL
+
+### sql/ddl_criacao_tabelas.sql
+
+Criação das tabelas necessárias para armazenar os dados:
+
+```sql
+CREATE TABLE dados_ibge (
+    id INT IDENTITY PRIMARY KEY,
+    regiao VARCHAR(100),
+    populacao INT,
+    renda_media DECIMAL(10,2),
+    data_atualizacao DATE
+);
