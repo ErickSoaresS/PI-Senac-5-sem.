@@ -54,6 +54,8 @@ Arquivo: scripts/carga.py
 
 # Autores 
 
-Caique Henrique Leite
-Caio Cesar Leão Coelho
-Erick Soares da Silva
+Caique Henrique Leite,
+
+Caio Cesar Leão Coelho,
+
+Erick Soares da Silva.
